@@ -1,0 +1,25 @@
+{
+  "name": "@iondv/i18n",
+  "license": "Apache License 2.0",
+  "engines": {
+    "node": ">=13"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/iondv/framework/issues"
+  },
+  "private": true,
+  "repository": {
+    "url": "https://github.com/iondv/i18n.git",
+    "type": "git"
+  },
+  "homepage": "https://iondv.com",
+  "version": "0.0.1",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "gettext-parser": "^4.0.4",
+    "node-gettext": "^3.0.0"
+  }
+}
